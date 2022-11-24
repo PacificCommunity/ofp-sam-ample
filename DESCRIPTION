@@ -1,6 +1,6 @@
 Package: AMPLE
 Title: Shiny Apps to Support Capacity Building on Harvest Control Rules
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     c(person("Finlay", "Scott", , "finlays@spc.int", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9950-9023")),
