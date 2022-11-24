@@ -36,7 +36,7 @@ Alternatively, you can get the latest version from the GitHub repository
 installing it with the *devtools* package.
 
 ``` r
-devtools::install_github("PacificCommunity/ofp-sam-amped")
+devtools::install_github("PacificCommunity/ofp-sam-ample")
 ```
 
 ## Usage
