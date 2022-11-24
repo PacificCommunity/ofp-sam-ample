@@ -1,6 +1,10 @@
 # AMPLE 1.0.1
 
-* Moved AMPLE to a new Git repository because it was getting messy in there. It's now at https://github.com/PacificCommunity/ofp-sam-ample 
+* Moved AMPLE to a new Git repository because it was getting messy in there. It's now at https://github.com/PacificCommunity/ofp-sam-ample.
+
+* SPC logo now dynamically resizes with sidebar width.
+
+* Fixed comments showing on introduction pages.
 
 # AMPLE 1.0.0
 
