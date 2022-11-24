@@ -1,0 +1,8 @@
+^issues
+^doc$
+^Meta$
+^app.R
+^rsconnect$
+^deployment_notes.md
+^README.Rmd
+^LICENSE
